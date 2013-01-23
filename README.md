@@ -1,4 +1,4 @@
 bash-template
 =============
 
-Template bash script
+Template bash scripts
